@@ -8,9 +8,8 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Python e Java paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</p>
+
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -20,7 +19,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
-
 
 <h3 align="left">My Stack ~</h3>
 
@@ -34,6 +32,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
   <img width="8" />
@@ -58,11 +58,11 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   </a>
 </div>
 
-
 #
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-light.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
